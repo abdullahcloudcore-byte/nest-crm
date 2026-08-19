@@ -1,0 +1,6 @@
+{
+  "name": "NestJS Hub - Blog & CMS",
+  "description": "An SEO-friendly NestJS framework blog platform and content management system with comprehensive category management, post editor, live SEO audits, and developer frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
